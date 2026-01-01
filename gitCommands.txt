@@ -1,0 +1,46 @@
+  git config commands 
+  ls
+  500  git init
+  501  git config --global user.name "Akshay106424"
+  502  git config --global user.email "kamandarakshay27@gmail.com"
+  503  git config --list
+
+  504  ls
+  505  git add demo.txt
+  506  git commit -m "demo file created and committed"
+  507  git remote add origin https://github.com/indrol12/all-batch_decindustrialtool.git
+  508  git push -f origin master
+  509  history
+
+---------------------------------------------------------------------------------
+
+git reset commands
+
+ ls
+  500  git status
+
+  501  git add monday.txt
+
+  502  git status
+
+  503  git reset
+
+  504  git status
+
+  505  git add monday.txt
+
+  506  git status
+
+  507  git commit -m "monday file is committed"
+
+  508  git status
+
+  509  git reset --soft head~1
+
+  510  git status
+
+  511  history
+-----------------------------------------------------------------------------
+
+ 
+
